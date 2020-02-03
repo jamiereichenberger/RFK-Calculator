@@ -51,7 +51,7 @@ The formula for x1 is:
   k2 =f(x+0.05/2, y+(0.05/2)k1) =2.02701e-1.75-e-1.075=0.35052
   k3 =f(x+0.05/2, y+(0.05/2)k2) =2.02687e-1.075-e-1.075=0.35047
   k4 =f(x+0.05, y+(0.05)k3) =2.03563e-1.1-e-1.1=0.34473
- <details>
+ </details>
  
  
 # Approach for Implementation 
